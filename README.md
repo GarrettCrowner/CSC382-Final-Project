@@ -1,7 +1,5 @@
 # Predicting SEPTA Regional Rail On-Time Performance
 **CSC 382 — Machine Learning | Dr. Amir | Spring 2026**
-**Garrett Crowner | Student ID: 0998499**
-
 ---
 
 ## Project Overview
